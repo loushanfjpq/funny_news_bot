@@ -39,8 +39,8 @@ Built with Flask, OpenAI API, and a simple HTML frontend.
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/funny-news-bot.git
-cd funny-news-bot
+git clone https://github.com/loushanfjpq/funny_news_bot.git
+cd funny_news_bot
 2. Create and activate a virtual environment
 macOS/Linux:
 
@@ -84,7 +84,7 @@ Download funny images
 Deploy to Render, HuggingFace Spaces, or Vercel
 
 📄 License
-MIT License © 2025 YourNameHere
+MIT License © 2025 Shan Lou
 
 
 
